@@ -18,7 +18,7 @@ Este es el backend de la aplicación de gestión de tareas, construido con **Nod
 - **PostgreSQL** como base de datos relacional.
 - Operaciones CRUD para tareas:
   - Crear una nueva tarea.
-  - Obtener todas las tareas con paginación.
+  - Obtener todas las tareas.
   - Obtener una tarea específica por ID.
   - Actualizar una tarea existente.
   - Eliminar una tarea.
